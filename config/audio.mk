@@ -12,6 +12,10 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/alarms/Rolling_fog.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Rolling_fog.ogg \
     vendor/aosp/audio/alarms/Spokes.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Spokes.ogg \
     vendor/aosp/audio/alarms/Sunshower.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Sunshower.ogg \
+    vendor/aosp/audio/alarms/Idol.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol.ogg \
+    vendor/aosp/audio/alarms/Idol-metal.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-metal.ogg \
+    vendor/aosp/audio/alarms/Idol-phonk.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-phonk.ogg \
+    vendor/aosp/audio/alarms/Mephisto.ogg$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Mephisto.ogg \
     vendor/aosp/audio/notifications/Beginning.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Beginning.ogg \
     vendor/aosp/audio/notifications/Coconuts.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Coconuts.ogg \
     vendor/aosp/audio/notifications/Duet.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Duet.ogg \
@@ -28,6 +32,10 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/notifications/Tuneup.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Tuneup.ogg \
     vendor/aosp/audio/notifications/Tweeter.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Tweeter.ogg \
     vendor/aosp/audio/notifications/Twinkle.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Twinkle.ogg \
+    vendor/aosp/audio/ringtones/Idol.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol.ogg \
+    vendor/aosp/audio/ringtones/Idol-metal.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-metal.ogg \
+    vendor/aosp/audio/ringtones/Idol-phonk.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-phonk.ogg \
+    vendor/aosp/audio/ringtones/Mephisto.ogg$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Mephisto.ogg \
     vendor/aosp/audio/ringtones/Copycat.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Copycat.ogg \
     vendor/aosp/audio/ringtones/Crackle.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Crackle.ogg \
     vendor/aosp/audio/ringtones/Flutterby.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Flutterby.ogg \
@@ -73,6 +81,6 @@ PRODUCT_COPY_FILES += \
 
 # Change default sounds
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.config.ringtone=Your_new_adventure.ogg \
+    ro.config.ringtone=Idol-metal.ogg \
     ro.config.notification_sound=Eureka.ogg \
-    ro.config.alarm_alert=Fresh_start.ogg
+    ro.config.alarm_alert=Mephisto.ogg
