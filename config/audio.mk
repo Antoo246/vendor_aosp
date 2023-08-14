@@ -33,9 +33,9 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/notifications/Tweeter.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Tweeter.ogg \
     vendor/aosp/audio/notifications/Twinkle.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Twinkle.ogg \
     vendor/aosp/audio/ringtones/Idol.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol.ogg \
-    vendor/aosp/audio/ringtones/Idol-metal.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-metal.ogg \
-    vendor/aosp/audio/ringtones/Idol-phonk.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-phonk.ogg \
-    vendor/aosp/audio/ringtones/Mephisto.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Mephisto.ogg \
+    vendor/aosp/audio/ringtones/Idol-metal.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Idol-metal.ogg \
+    vendor/aosp/audio/ringtones/Idol-phonk.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Idol-phonk.ogg \
+    vendor/aosp/audio/ringtones/Mephisto.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Mephisto.ogg \
     vendor/aosp/audio/ringtones/Copycat.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Copycat.ogg \
     vendor/aosp/audio/ringtones/Crackle.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Crackle.ogg \
     vendor/aosp/audio/ringtones/Flutterby.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Flutterby.ogg \
