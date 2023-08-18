@@ -16,6 +16,12 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/alarms/Idol-metal.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-metal.ogg \
     vendor/aosp/audio/alarms/Idol-phonk.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol-phonk.ogg \
     vendor/aosp/audio/alarms/Mephisto.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Mephisto.ogg \
+    vendor/aosp/audio/alarms/HEARTs♡KISS-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/HEARTs♡KISS-new-b-komachi.ogg \
+    vendor/aosp/audio/alarms/HEARTs♡KISS-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/HEARTs♡KISS-old-b-komachi.ogg \
+    vendor/aosp/audio/alarms/Sign-Wa B-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Sign-Wa B-new-b-komachi.ogg \
+    vendor/aosp/audio/alarms/Sign-Wa B-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Sign-Wa B-old-b-komachi.ogg \
+    vendor/aosp/audio/alarms/STAR☆T☆RAIN-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/STAR☆T☆RAIN-new-b-komachi.ogg \
+    vendor/aosp/audio/alarms/STAR☆T☆RAIN-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/STAR☆T☆RAIN-old-b-komachi.ogg \
     vendor/aosp/audio/notifications/Beginning.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Beginning.ogg \
     vendor/aosp/audio/notifications/Coconuts.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Coconuts.ogg \
     vendor/aosp/audio/notifications/Duet.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Duet.ogg \
@@ -32,7 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/notifications/Tuneup.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Tuneup.ogg \
     vendor/aosp/audio/notifications/Tweeter.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Tweeter.ogg \
     vendor/aosp/audio/notifications/Twinkle.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Twinkle.ogg \
-    vendor/aosp/audio/ringtones/Idol.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Idol.ogg \
+    vendor/aosp/audio/ringtones/Idol.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Idol.ogg \
     vendor/aosp/audio/ringtones/Idol-metal.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Idol-metal.ogg \
     vendor/aosp/audio/ringtones/Idol-phonk.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Idol-phonk.ogg \
     vendor/aosp/audio/ringtones/Mephisto.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Mephisto.ogg \
@@ -49,6 +55,12 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/ringtones/The_big_adventure.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/The_big_adventure.ogg \
     vendor/aosp/audio/ringtones/Your_new_adventure.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Your_new_adventure.ogg \
     vendor/aosp/audio/ringtones/Zen_too.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Zen_too.ogg \
+    vendor/aosp/audio/ringtones/HEARTs♡KISS-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/HEARTs♡KISS-new-b-komachi.ogg \
+    vendor/aosp/audio/ringtones/HEARTs♡KISS-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/HEARTs♡KISS-old-b-komachi.ogg \
+    vendor/aosp/audio/ringtones/Sign-Wa B-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Sign-Wa B-new-b-komachi.ogg \
+    vendor/aosp/audio/ringtones/Sign-Wa B-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Sign-Wa B-old-b-komachi.ogg \
+    vendor/aosp/audio/ringtones/STAR☆T☆RAIN-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/STAR☆T☆RAIN-new-b-komachi.ogg \
+    vendor/aosp/audio/ringtones/STAR☆T☆RAIN-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/STAR☆T☆RAIN-old-b-komachi.ogg \
     vendor/aosp/audio/ui/AttentionalHaptics.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/AttentionalHaptics.ogg \
     vendor/aosp/audio/ui/audio_end.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/audio_end.ogg \
     vendor/aosp/audio/ui/audio_initiate.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/audio_initiate.ogg \
