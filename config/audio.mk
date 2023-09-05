@@ -18,8 +18,8 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/alarms/Mephisto.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Mephisto.ogg \
     vendor/aosp/audio/alarms/HEARTs♡KISS-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/HEARTs♡KISS-new-b-komachi.ogg \
     vendor/aosp/audio/alarms/HEARTs♡KISS-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/HEARTs♡KISS-old-b-komachi.ogg \
-   "vendor/aosp/audio/alarms/Sign-Wa B-new-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Sign-Wa B-new-b-komachi.ogg" \
-   "vendor/aosp/audio/alarms/Sign-Wa B-old-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Sign-Wa B-old-b-komachi.ogg" \
+    vendor/aosp/audio/alarms/Sign-Wa-B-new-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Sign-Wa-B-new-b-komachi.ogg \
+    vendor/aosp/audio/alarms/Sign-Wa-B-old-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/Sign-Wa-B-old-b-komachi.ogg \
     vendor/aosp/audio/alarms/STAR☆T☆RAIN-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/STAR☆T☆RAIN-new-b-komachi.ogg \
     vendor/aosp/audio/alarms/STAR☆T☆RAIN-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/alarms/STAR☆T☆RAIN-old-b-komachi.ogg \
     vendor/aosp/audio/notifications/Beginning.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Beginning.ogg \
@@ -57,8 +57,8 @@ PRODUCT_COPY_FILES += \
     vendor/aosp/audio/ringtones/Zen_too.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Zen_too.ogg \
     vendor/aosp/audio/ringtones/HEARTs♡KISS-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/HEARTs♡KISS-new-b-komachi.ogg \
     vendor/aosp/audio/ringtones/HEARTs♡KISS-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/HEARTs♡KISS-old-b-komachi.ogg \
-   "vendor/aosp/audio/ringtones/Sign-Wa B-new-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Sign-Wa B-new-b-komachi.ogg" \
-   "vendor/aosp/audio/ringtones/Sign-Wa B-old-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Sign-Wa B-old-b-komachi.ogg" \
+    vendor/aosp/audio/ringtones/Sign-Wa-B-new-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Sign-Wa-B-new-b-komachi.ogg \
+    vendor/aosp/audio/ringtones/Sign-Wa-B-old-b-komachi.ogg":"$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Sign-Wa-B-old-b-komachi.ogg \
     vendor/aosp/audio/ringtones/STAR☆T☆RAIN-new-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/STAR☆T☆RAIN-new-b-komachi.ogg \
     vendor/aosp/audio/ringtones/STAR☆T☆RAIN-old-b-komachi.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/STAR☆T☆RAIN-old-b-komachi.ogg \
     vendor/aosp/audio/ui/AttentionalHaptics.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/AttentionalHaptics.ogg \
